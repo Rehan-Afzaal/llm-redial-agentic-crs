@@ -34,7 +34,4 @@ build/
 # Testing
 .pytest_cache/
 .coverage
-htmlcov/
-
-read_me.py
-Tools.py
+htmlcov/
