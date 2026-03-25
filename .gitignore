@@ -34,4 +34,4 @@ build/
 # Testing
 .pytest_cache/
 .coverage
-htmlcov/
+htmlcov/
